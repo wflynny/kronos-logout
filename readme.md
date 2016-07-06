@@ -20,7 +20,6 @@ not be synced with the clock on the Kronos server.
 
 -   Setup cron job.  For example
 
-
-    00 10 * * * python ~/projects/kronos/kronos-logout.py
-    58 21 * * * python ~/projects/kronos/kronos-logout.py
+        00 10 * * * python ~/projects/kronos/kronos-logout.py
+        58 21 * * * python ~/projects/kronos/kronos-logout.py
 
