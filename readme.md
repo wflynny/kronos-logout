@@ -8,6 +8,19 @@ more to log you out.  Take care in attempting to logout close to midnight.  The
 request process may take up to a minute and the clock on your local machine may
 not be synced with the clock on the Kronos server.
 
+**Advisory**: Make sure you consult your supervisor before using this script.
+You may be responsible for accurate time reporting, and in that case the use of
+this script may be unethical.
+
+It was often the case as a graduate student that, due to administrative
+constraints, my summer stipend would be divided up into an hourly wage with a
+maximum number of loggable hours, the sum of which was the entire stipend.  This
+script was a way to ensure my summer stipend would be evenly distributed
+throughout the summer.  For example, despite working 60+ hours/week, I could
+only log 35 at a given rate such that after 8 weeks I would be allotted my
+entire stipend.  I used this script to log 7 hours per work day (8 hours - 1
+hour for lunch).
+
 ## Setup
 
 -   Do some Kronos detective work.  Find the pages that correspond to:
